@@ -4,10 +4,7 @@
   ![Supported Platforms](https://img.shields.io/cocoapods/p/Charts.svg) [![Releases](https://img.shields.io/github/release/danielgindi/Charts.svg)](https://github.com/danielgindi/Charts/releases) [![Latest pod release](https://img.shields.io/cocoapods/v/Charts.svg)](http://cocoapods.org/pods/charts) [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage) [![Build Status](https://travis-ci.org/danielgindi/Charts.svg?branch=master)](https://travis-ci.org/danielgindi/Charts) [![codecov](https://codecov.io/gh/danielgindi/Charts/branch/master/graph/badge.svg)](https://codecov.io/gh/danielgindi/Charts)
 [![Join the chat at https://gitter.im/danielgindi/Charts](https://badges.gitter.im/danielgindi/Charts.svg)](https://gitter.im/danielgindi/Charts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-### WARNING! This project is a copy of the original contributors that are mentioned below. The only change it has is in the rendering file of BarChart, to make its bars rounded!!!. 
-
-
-
+### WARNING! This project is a copy of the original contributors that are mentioned below. The only change it has is in the rendering file of BarChart, to make its bars rounded!!!
 
 
 ### Just a heads up: Charts 3.0 has some breaking changes. Please read [the release/migration notes](https://github.com/danielgindi/Charts/releases/tag/v3.0.0). 
